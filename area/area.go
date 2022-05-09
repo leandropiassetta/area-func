@@ -1,4 +1,5 @@
-package area // nome do pacote é area, nao precisa colocar o nome do caminho completo.
+// nome do pacote é area, nao precisa colocar o nome do caminho completo.
+package area
 
 import "math"
 
